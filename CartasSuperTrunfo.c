@@ -2,7 +2,7 @@
 #include <string.h>
 
 // Desafio Super Trunfo - Países
-// Tema 1 - Cadastro das Cartas (com dados criativos)
+// Tema 1 - Cadastro das Cartas
 
 int main() {
     // Carta 1
